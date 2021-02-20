@@ -1,4 +1,26 @@
-Mountain,Elevation (m)
-Burnaby Mountain,370
-West Lion,1654
-Grouse,1231
+Mountain,Elevation (m),lat,lng,color
+Blanshard Peak,1550,49.343333,-122.5,#ea96a3
+Mount Burke,1270,49.307778,-122.711389,#e89689
+Burnaby Mountain,370,49.279167,-122.908611,#df914f
+Canadian Border Peak,2291,49.004167,-121.679444,#df914f
+Cheam Peak,2104,49.186667,-121.681667,#b69c49
+Chilliwack Mountain,340,49.155,-122.0175,#a49f46
+Mount Crickmer,1359,49.320556,-122.376944,#93a346
+Edge Peak,1680,49.356111,-122.498056,#7ca947
+The Forefinger,1741,49.504389,-122.724417,#48b14d
+Golden Ears,1716,49.362778,-122.5075,#49ae7e
+Grouse,1231,49.379556,-123.081803,#4aad91
+Harrison Hill,622,49.223889,-121.957222,#4bac9f
+Hope Mountain,1844,49.3475,-121.417778,#4babaa
+Mount Judge Howay,2262,49.506944,-122.321667,#4eabb7
+Little Mountain,125,49.241667,-123.113333,#51acc6
+Nicomen Mountain,1221,49.205278, -122.120278,#56addd
+The Old Settler,2132,49.511944, -121.621667,#90aee7
+Mount Robie Reid,2095,49.431944,-122.356111,#b0aaeb
+Mount Seymour,1449,49.393333,-122.944444,#a4acea
+Slesse Mountain,2439,49.025611,-121.591917,#bba5ea
+Mount Strachan,1440,49.395556,-123.203333,#ce9be9
+Sumas Mountain,910,49.089167,-122.170833,#e28ce7
+Skagit Range,3285,49.166667,-121.5,#e78dd5
+Welch Peak,2431,49.16,-121.600833,#e890c7
+West Lion,1654,49.457778,-123.186389,#e993b6
